@@ -1,6 +1,6 @@
 {
   "name": "@project-monarch/periphery",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "🎚 Peripheral smart contracts for interacting with the Project Monarch exchanges",
   "engines": {
     "node": "^16.0.0"
@@ -14,8 +14,8 @@
     "contracts"
   ],
   "dependencies": {
-    "@project-monarch/lib": "2.0.0",
-    "@project-monarch/core": "2.0.1",
+    "@project-monarch/lib": "^2.0.0",
+    "@project-monarch/core": "^2.0.1",
     "@harmony-js/core": "^0.1.57",
     "@harmony-js/utils": "^0.1.56"
   },
