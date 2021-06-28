@@ -1,21 +1,21 @@
 {
-  "name": "@lootswap/periphery",
+  "name": "@monarch/periphery",
   "version": "2.0.2",
-  "description": "🎚 Peripheral smart contracts for interacting with the Lootswap exchanges",
+  "description": "🎚 Peripheral smart contracts for interacting with the Project Monarch exchanges",
   "engines": {
-    "node": "=12.0.0"
+    "node": "^16.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LootSwap/lootswap-periphery"
+    "url": "https://github.com/Project-Monarch/monarch-periphery"
   },
   "files": [
     "build",
     "contracts"
   ],
   "dependencies": {
-    "@lootswap/lib": "2.0.0",
-    "@lootswap/core": "2.0.1",
+    "@monarch/lib": "2.0.0",
+    "@monarch/core": "2.0.1",
     "@harmony-js/core": "^0.1.57",
     "@harmony-js/utils": "^0.1.56"
   },
