@@ -1,7 +1,7 @@
 # Uniswap V2
 In-depth documentation on Uniswap V2 is available at [uniswap.org](https://uniswap.org/docs).
 
-The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@lootswap/periphery@latest/).
+The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@project-monarch/periphery@latest/).
 
 # Local Development
 

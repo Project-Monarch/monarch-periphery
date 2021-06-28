@@ -1,5 +1,5 @@
 {
-  "name": "@monarch/periphery",
+  "name": "@project-monarch/periphery",
   "version": "2.0.2",
   "description": "🎚 Peripheral smart contracts for interacting with the Project Monarch exchanges",
   "engines": {
@@ -7,15 +7,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Project-Monarch/monarch-periphery"
+    "url": "https://github.com/Project-Monarch/project-monarch-periphery"
   },
   "files": [
     "build",
     "contracts"
   ],
   "dependencies": {
-    "@monarch/lib": "2.0.0",
-    "@monarch/core": "2.0.1",
+    "@project-monarch/lib": "2.0.0",
+    "@project-monarch/core": "2.0.1",
     "@harmony-js/core": "^0.1.57",
     "@harmony-js/utils": "^0.1.56"
   },

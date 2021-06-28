@@ -1,5 +1,5 @@
 import chai, { expect } from 'chai'
-import { bytecode } from '@lootswap/core/build/UniswapV2Pair.json'
+import { bytecode } from '@project-monarch/core/build/UniswapV2Pair.json'
 import { keccak256 } from '@ethersproject/solidity'
 
 const COMPUTED_INIT_CODE_HASH = keccak256(['bytes'], [`0x${bytecode}`])
